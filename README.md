@@ -4,4 +4,4 @@ This is a sample Django application that has some failing tests.  It's built off
 
 As a programming exercise do the following:
 * Create a fork of this repo.
-* Make a pull request that fixes the broken tests.
+* Create a branch on your fork and let us know when you're done.
